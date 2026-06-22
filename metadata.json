@@ -1,0 +1,6 @@
+{
+  "name": "CuraPulse",
+  "description": "A cross-platform healthcare management experience featuring clinical and hospital variant modes, advanced multi-doctor scheduling, omnichannel notifications, digital patient intake, and a doctor consultation portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
